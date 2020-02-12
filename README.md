@@ -17,7 +17,7 @@
 
 ## :rocket: Sobre a Aplicação
 
-A aplicação que iremos dar início ao desenvolvimento a partir de agora é o frontend de um app gerenciador de agendamentos de uma barbearia, o **GoBarber**.
+A aplicação desenvolvida é o frontend do **GoBarber**, uma aplicação de agendamentos de serviços de beleza.
 
 Abaixo segue todo o conteúdo que foi abordado no curso para o desenvolvimento da aplicação.
 
